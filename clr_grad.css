@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font: 'Ralesway', sans-serif;
+    top: 10%;
+    letter-spacing: 0.7em;
+    color: rgba(0, 0, .1, .8);
+    text-transform: uppercase;
+}
+
+h3{
+    letter-spacing: 0;
+    font: 'monospace', sans-serif;
+    text-align: center;
+    text-transform: lowercase;
+}
